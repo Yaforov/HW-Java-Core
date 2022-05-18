@@ -1,8 +1,8 @@
 package J2HW2;
 /**
- * Java Core.  Homework 1
+ * Java Core.  Homework 2
  * @author Yaforov Roman
- * @version Date: 16.05.2022 г.
+ * @version Date: 18.05.2022 г.
  */
 
 public class SumArray {
